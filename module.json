@@ -7,7 +7,7 @@
 		"minimum": "0.5.7",
 		"verified": 11
 	},
-	"author": ["Shoyu Vanilla", "NUBI"],
+	"authors": ["Shoyu Vanilla", "NUBI"],
 	"esmodules": ["babele-register.js"],
 	"styles": ["style.css"],
 	"relationships": {
@@ -31,5 +31,5 @@
 
 	"url": "https://github.com/FoundryModule/DungeonWorld-ko-KR",
 	"manifest": "https://raw.githubusercontent.com/FoundryModule/DungeonWorld-ko-KR/master/module.json",
-	"download": "https://github.com/ShoyuVanilla/FoundryVTT-DungeonWorld-ko-KR/releases/download/v0.3.0/release.zip"
+	"download": "https://github.com/FoundryModule/DungeonWorld-ko-KR/releases/download/v0.3.1/release.zip"
 }
