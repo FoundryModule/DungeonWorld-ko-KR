@@ -223,7 +223,7 @@
     "DW.Settings.disDebility.name": "취약이 불리점을 유발",
     "DW.Settings.disDebility.hint": "활성화되면 취약이 능력 수정치를 변경하는 대신 불리점을 줍니다.",
     "DW.Settings.coinWeight.name": "동전 무게",
-    "DW.Settings.coinWeight.hint": "단위 무게에 비례한 동전의 부게입니다. 0은 무게 없음을 뜻합니다.",
+    "DW.Settings.coinWeight.hint": "단위 무게에 비례한 동전의 무게입니다. 0은 무게 없음을 뜻합니다.",
     "DW.Settings.alignmentSingle.name": "Override \"Alignment\" label (single).",
     "DW.Settings.alignmentSingle.hint": "Override \"Alignment\", such as by using \"Drive\" instead.",
     "DW.Settings.alignmentPlural.name": "Override \"Alignments\" label (plural).",
