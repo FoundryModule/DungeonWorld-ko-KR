@@ -7,7 +7,14 @@
 		"minimum": "0.5.7",
 		"verified": 11
 	},
-	"authors": ["Shoyu Vanilla", "NUBI"],
+	"authors": [
+		{
+		  "name": "Shoyu Vanilla"
+		},
+		{
+		  "name": "NUBI"
+		}
+	],
 	"esmodules": ["babele-register.js"],
 	"styles": ["style.css"],
 	"relationships": {
